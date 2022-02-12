@@ -1,12 +1,4 @@
-import {
-  MapContainer,
-  SVGOverlay,
-  TileLayer,
-  Marker,
-  Popup,
-  Circle,
-  CircleMarker,
-} from 'react-leaflet'
+import { MapContainer, TileLayer, Marker, Popup, Circle } from 'react-leaflet'
 import L from 'leaflet'
 import { useState } from 'react'
 
